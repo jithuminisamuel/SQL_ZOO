@@ -1,0 +1,11 @@
+# SQL ZOO solutions for SELECT bsaics
+
+#SQL BASICS
+
+1.
+--- sql
+SELECT population 
+FROM world
+WHERE name = 'Germany'
+ ----
+  
